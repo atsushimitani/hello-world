@@ -1,2 +1,2 @@
 # hello-world
-The hello world project
+README file for the hello world project
